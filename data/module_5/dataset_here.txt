@@ -1,0 +1,1 @@
+File made for that Dockerfile can mount this folder as perma storage

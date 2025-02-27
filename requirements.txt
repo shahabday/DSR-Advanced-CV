@@ -1,0 +1,9 @@
+focal-loss==0.0.7
+ipython==7.18.1
+numpy==1.19.3
+opencv-contrib-python==4.5.2.52
+tensorflow-gpu==2.1.0
+matplotlib==3.3.2
+tqdm==4.47.0
+scikit-learn==0.23.2
+pandas==1.1.2
